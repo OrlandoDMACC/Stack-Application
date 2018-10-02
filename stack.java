@@ -21,7 +21,6 @@ public class ArrayStack {
 
 			ArrayStack[top] = item;
 
-			System.out.println("push(" + item + ")");
 		} else {
 
 			System.out.println("Stack Overflow !");
